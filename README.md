@@ -1,2 +1,2 @@
-# Application-web-JEE-de-vente-aux-encheres-electroniques
-JSF
+# VenteAuxEnchere
+Projet JEE IF4
